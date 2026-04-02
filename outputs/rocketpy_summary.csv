@@ -1,0 +1,5 @@
+kind,burn_time_s,apogee_agl_m,motor_path
+flight_old,22.445,3515.326,data\Flight_Reconstructed.eng
+flight_retimed_noinf,23.110,3118.586,data\Flight_OnboardRetimed_NoInference.eng
+flight_retimed_hft4ign,23.110,3083.724,data\Flight_OnboardRetimed_HFT4Ignition.eng
+smt0033,21.280,2880.706,data\SMT0033_extracted.eng
